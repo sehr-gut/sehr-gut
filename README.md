@@ -1,8 +1,8 @@
-# HEY THERE! I am HAIK
+# HEY THERE!👋 I am HAIK😄
 
-## I'm currenty learning web development, cybersecurity and system administration
+## I'm a web developmer, and is interested in cybersecurity and system administration
 
-Currently using the following in building my projects:
+ 📋 Currently using the following in building my projects:
 - PHP
 - React and Vite
 - Node
