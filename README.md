@@ -1,6 +1,6 @@
 # HEY THERE!👋 I am HAIK😄
 
-## I'm a web developmer, and is interested in cybersecurity and system administration
+## I'm a web developer, and is interested in cybersecurity and system administration
 
  📋 Currently using the following in building my projects:
 - PHP
