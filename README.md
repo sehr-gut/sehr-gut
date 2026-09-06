@@ -29,6 +29,8 @@ I develop web applications, explore system security, and manage infrastructure w
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=fff)
+![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=flat-square&logo=proxmox&logoColor=white)
+![Parrot Security](https://img.shields.io/badge/parrot_security-%23000000.svg?style=flat-square&logo=parrotsecurity&logoColor=#15E0ED)
 
 **Databases & BaaS**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
