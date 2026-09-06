@@ -2,7 +2,7 @@
 
 > **Web Developer** • Aspiring **Cybersecurity** Analyst • **Sysadmin** Enthusiast  
 
-I build robust web applications, explore system security, and manage infrastructure with modern tooling.
+I develop web applications, explore system security, and manage infrastructure with modern tooling.
 
 ---
 
