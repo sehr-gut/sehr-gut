@@ -41,7 +41,7 @@ I develop web applications, explore system security, and manage infrastructure w
 
 **DevOps & Infrastructure**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ---
 
 ### 🌐 Focus Areas
