@@ -1,8 +1,8 @@
 # Hi there, I'm Haik 👋
 
-> **Web Developer** • Aspiring **Cybersecurity** Analyst • **Sysadmin** Enthusiast  
+> Aspiring **Web Developer** • Aspiring **Cybersecurity** Analyst 
 
-I develop web applications, explore system security, and manage infrastructure with modern tooling.
+I am learning to develop web applications, explore system security, and manage infrastructure with modern tooling.
 
 ---
 
